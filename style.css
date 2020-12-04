@@ -308,7 +308,7 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: #00263c;
+    color: blue;
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
@@ -490,6 +490,9 @@ section .title::after{
 }
 .contact .contact-content .info .head{
     font-weight: 500;
+}
+.contact .contact-content .info .head a {
+    color: #333;
 }
 .contact .contact-content .info .sub-title{
     color: #333;
