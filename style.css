@@ -102,6 +102,9 @@ section .title::after{
     background: #00263c;
     box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
 }
+/* .navbar.sticky li a {
+    color: #000;
+} */
 .navbar .max-width{
     display: flex;
     align-items: center;
@@ -277,7 +280,10 @@ section .title::after{
 /* services section styling */
 .services, .teams{
     color:#fff;
-    background: #111;
+    background: #222;
+    background-image: url('/images/charcoalplains.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .services .title::before,
 .teams .title::before{
