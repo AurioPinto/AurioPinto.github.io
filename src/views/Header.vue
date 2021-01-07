@@ -12,8 +12,8 @@
         <v-btn text
           ><router-link to="/Contact">Services & Solutions</router-link></v-btn
         >
-        <v-btn text><router-link to="/Hero">About Kwdima</router-link></v-btn>
-        <v-btn text><router-link to="/Contact">Contact us</router-link></v-btn>
+        <v-btn text><router-link to="/">About Kwdima</router-link></v-btn>
+        <v-btn text><router-link to="/">Contact us</router-link></v-btn>
       </v-app-bar-items>
       <div class="hidden-sm-and-up">
         <v-menu offset-y>
@@ -28,23 +28,21 @@
             </v-list-item>
             <v-list-item>
               <v-list-item-title
-                ><router-link to="/Hero"
+                ><router-link to="/"
                   >Services & Solutions</router-link
                 ></v-list-item-title
               >
             </v-list-item>
             <v-list-item>
               <v-list-item-title
-                ><router-link to="/about"
+                ><router-link to="/"
                   >About Kwdima</router-link
                 ></v-list-item-title
               >
             </v-list-item>
             <v-list-item>
               <v-list-item-title
-                ><router-link to="/Contact"
-                  >Contact us</router-link
-                ></v-list-item-title
+                ><router-link to="/">Contact us</router-link></v-list-item-title
               >
             </v-list-item>
           </v-list>
