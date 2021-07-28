@@ -35,7 +35,7 @@ $(document).ready(function () {
 
     // typing text animation script
     var typed = new Typed('.typing', {
-        strings: ["under construction", 'is already online, but has no content yet.'],
+        strings: ["agricultura familiar", 'as cooperativas agrícolas e dos pequenos e médios produtores agrícolas.'],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
