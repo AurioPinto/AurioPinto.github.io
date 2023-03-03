@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkneuralbug"]=self["webpackChunkneuralbug"]||[]).push([[443],{7381:(u,a,e)=>{e.r(a),e.d(a,{default:()=>h});var n=e(6252),r={class:"about"},s=(0,n._)("h1",null,"This is an about page",-1),l=[s];function t(u,a){return(0,n.wg)(),(0,n.iD)("div",r,l)}var b=e(3744);const c={},i=(0,b.Z)(c,[["render",t]]),h=i}}]);
+//# sourceMappingURL=about.a109afae.js.map
